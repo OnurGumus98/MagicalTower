@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ead8a66beb4c3c41b49e199b83d5332, type: 3}
+  m_Name: BarragePool
+  m_EditorClassIdentifier: 
+  PoolVariables:
+    poolPrefab: {fileID: 3976468195036213970, guid: a1a142f56f8301c47b5fc672654ea94d,
+      type: 3}
+    poolSize: 50

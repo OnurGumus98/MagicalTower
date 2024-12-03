@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de502ef008c6fa44ea9537fadc51b1cc, type: 3}
+  m_Name: BarrageSpell
+  m_EditorClassIdentifier: 
+  SpellVariables:
+    ID: 1
+    type: 1
+    spellPrefab: {fileID: 3976468195036213970, guid: a1a142f56f8301c47b5fc672654ea94d,
+      type: 3}
+    impactPrefab: {fileID: 7877116953168499092, guid: 1ca491c7ce975f84b92dd3a85859dabd,
+      type: 3}
+    speed: 5
+    damage: 15
+    cooldownTime: 3
+    targetObject: {fileID: 0}
